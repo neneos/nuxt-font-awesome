@@ -1,0 +1,30 @@
+{
+  "name": "@neneos/nuxt-font-awesome",
+  "version": "0.0.1",
+  "description": "Add font-awesome 5 to your nuxt application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neneos/nuxt-font-awesome.git"
+  },
+  "keywords": [
+    "nuxt",
+    "font-awesome"
+  ],
+  "author": "Robin Soenen (Neneos)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neneos/nuxt-font-awesome/issues"
+  },
+  "homepage": "https://github.com/neneos/nuxt-font-awesome#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome": "^1.1.5",
+    "@fortawesome/fontawesome-free-brands": "^5.0.10",
+    "@fortawesome/fontawesome-free-regular": "^5.0.10",
+    "@fortawesome/fontawesome-free-solid": "^5.0.10",
+    "@fortawesome/vue-fontawesome": "0.0.22"
+  }
+}
